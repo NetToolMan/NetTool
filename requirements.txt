@@ -1,0 +1,6 @@
+dash==2.12.1
+plotly==5.16.1
+python_igraph==0.10.6
+gunicorn
+pandas
+dash-tools
